@@ -374,13 +374,7 @@ This is a personal project. Feel free to fork it for your own use!
 3. Check `.env` file has all required variables
 4. Clear node_modules: `rm -rf node_modules && npm install`
 
-### Deployment Questions
 
-- Read the comprehensive guides in the project root
-- Check [DEPLOYMENT.md](./DEPLOYMENT.md) troubleshooting section
-- Review [FLOW_DIAGRAMS.md](./FLOW_DIAGRAMS.md) for architecture understanding
-
----
 
 ## ✨ What Makes Ethara Special
 
