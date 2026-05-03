@@ -1,3 +1,5 @@
+## Note: The backend is deployed separately as a Render Web Service. Render can spin it down when idle, so the first request after inactivity may take 15-20 seconds to wake up. If the frontend shows an initial loading spinner, wait for the backend to start.
+
 # 📋 Ethara — Project & Task Tracker
 
 A modern, full-stack web application for managing projects and tracking tasks with team collaboration features. Built with **React**, **Node.js**, and **MongoDB**.
